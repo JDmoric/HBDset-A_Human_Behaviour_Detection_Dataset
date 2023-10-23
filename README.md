@@ -23,9 +23,9 @@ python splt_data.py
 https://github.com/WongKinYiu/yolov7
 
 # Citation
-@article{wang2022yolov7,
-  title={{YOLOv7}: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
-  author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
-  journal={arXiv preprint arXiv:2207.02696},
-  year={2022}
+@misc{HBset-A_Human_Behavior_Dataset_for_YOLO_application,
+    title={HBset-A_Human_Behavior_Dataset_for_YOLO_application},
+    author={Yifei DING},
+    howpublished = {\url{https://github.com/JDmoric/HBset-A_Human_Behavior_Dataset_for_YOLO_Application}},
+    year={2023}
 }
