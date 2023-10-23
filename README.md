@@ -23,9 +23,9 @@ python splt_data.py
 https://github.com/WongKinYiu/yolov7
 
 # Citation
-@misc{HBset-A_Human_Behavior_Dataset_for_YOLO_application,
-    title={HBset-A_Human_Behavior_Dataset_for_YOLO_application},
-    author={Yifei DING},
-    howpublished = {\url{https://github.com/JDmoric/HBset-A_Human_Behavior_Dataset_for_YOLO_Application}},
-    year={2023}
+@misc{HBset-A_Human_Behavior_Dataset_for_YOLO_application,  
+    title={HBset-A_Human_Behavior_Dataset_for_YOLO_application},  
+    author={Yifei DING},  
+    howpublished = {\url{https://github.com/JDmoric/HBset-A_Human_Behavior_Dataset_for_YOLO_Application}},  
+    year={2023}  
 }
