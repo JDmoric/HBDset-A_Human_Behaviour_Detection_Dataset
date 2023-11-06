@@ -1,5 +1,5 @@
-# HBset-A_Human_Behavior_Dataset_for_YOLO_application
-This is an open multiple human behaviors image dataset (HBset) for object detection model development applied in the public emergency satey.
+# HBDset-A_Human_Behavior_Detection_Dataset_for_YOLO_application
+This is an open multiple human behaviors image dataset (HBDset) for object detection model development applied in the public emergency satey.
 The dataset categories the common human behaviours and groups in the public emergency as 8 classes:  
 
 *1. normal_person  
@@ -12,7 +12,7 @@ The dataset categories the common human behaviours and groups in the public emer
 8. using_wheelchair*
 
 Accurately detecting these behaviours is very helpful for emergency rescue and evacuation strategy-making. 
-## Download link of the HBset (Images and Labels)
+## Download link of the HBDset (Images and Labels)
 https://connectpolyu-my.sharepoint.com/:f:/r/personal/22038199r_connect_polyu_hk/Documents/HBset?csf=1&web=1&e=YN97Ku
 ## Split the dataset as train, valid and test subset
 ```python
