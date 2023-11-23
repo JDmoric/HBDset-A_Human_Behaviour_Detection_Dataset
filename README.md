@@ -13,7 +13,7 @@ The dataset categories the common human behaviours and groups in the public emer
 
 Accurately detecting these behaviours is very helpful for emergency rescue and evacuation strategy-making. 
 ## Download link of the HBDset (Images and Labels)
-https://connectpolyu-my.sharepoint.com/:f:/g/personal/22038199r_connect_polyu_hk/EvRsYhbizO9KkrzGYq-Io0EB5y4ISh2fVATqjlM_jvbh7A?e=mZpJuq
+https://doi.org/10.6084/m9.figshare.24587448
 ## Split the dataset as train, valid and test subset
 ```python
 python splt_data.py
